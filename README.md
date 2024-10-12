@@ -1,4 +1,4 @@
-# MMAI'25 894 Deep Learning Project - Team Rosedale
+# MMAI'25 894 Deep Learning Project 
 Model Developer: Shamsun Nila 
 
 ## Visual Question Answering (VQA) Project
