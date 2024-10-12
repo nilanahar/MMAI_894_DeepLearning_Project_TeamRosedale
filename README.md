@@ -63,11 +63,3 @@ Contributions are welcome! If you have ideas for improving the project or would 
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to fit your specific project details and repository structure! Let me know if you'd like help with any particular section or improvement.
